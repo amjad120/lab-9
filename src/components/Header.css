@@ -1,13 +1,15 @@
 .navbar #nav{
     list-style: none;
     padding-left: 10px;
+    color: white;
 
 
 }
 .navbar{
     background-color:rgb(61, 102, 125);
-    height: 30px;
+    height: 70px;
     padding: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
 }
 .navbar #nav li{
